@@ -41,8 +41,13 @@ form {
   position: center;
   height: 20px;
 }
+.buttons {
+  margin: 15px;
+  height: 5px;
+  text-align: center;
+}
 
-.button {
+/*.button {
                 position:relative;
                 padding:6px 15px;
                 left:-8px;
@@ -52,8 +57,8 @@ form {
 }
 .button:hover  {
                 background-color:#fafafa;
-                color:#207cca;
-}
+                color:#207cca;*/
+
 #bottom-nav{
   width:100%;
   position: absolute;
