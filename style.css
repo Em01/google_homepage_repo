@@ -37,37 +37,12 @@ position: absolute; bottom:0;
 #center {
   text-align: center;
 }
-#search {
-      padding:80px 15px;
-      background:rgba(50, 50, 50, 0.2);
-      border:0px solid #dbdbdb;
-      position: center;
-      width: 700px;
-}
 
-#searchy {
-  width: 500px;
-  position: center;
-  height: 20px;
-  margin:20px;
-}
 .buttons {
   margin: 15px;
   height: 5px;
   text-align: center;
 }
-
-/*.button {
-                position:relative;
-                padding:6px 15px;
-                left:-8px;
-                border:2px solid #207cca;
-                background-color:#207cca;
-                color:#fafafa;
-}
-.button:hover  {
-                background-color:#fafafa;
-                color:#207cca;*/
 
 #bottom-nav{
   width:100%;
