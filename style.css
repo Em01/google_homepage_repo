@@ -25,14 +25,21 @@ img {
 }
 
 form {
-      width:100px;
-      margin:230px auto;
+      width:495px;
+      margin:240px auto;
 }
 .search {
-      padding:8px 15px;
+      padding:80px 15px;
       background:rgba(50, 50, 50, 0.2);
       border:0px solid #dbdbdb;
       position: center;
+      width: 700px;
+}
+
+.searchy {
+  width: 500px;
+  position: center;
+  height: 20px;
 }
 .button {
                 position:relative;
