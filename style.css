@@ -29,11 +29,10 @@ position: absolute; bottom:0;
     margin: auto;
 }
 
-.form {
-      width:495px;
+#form {
+      width:695px;
       margin:90px auto;
 }
-
 
 #center {
   text-align: center;
@@ -41,7 +40,7 @@ position: absolute; bottom:0;
 
 .buttons {
   margin: 15px;
-  height: 5px;
+  height: 6px;
   text-align: center;
 }
 
