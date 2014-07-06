@@ -1,13 +1,17 @@
-.nav{
-    border:1px solid #ccc;
-    border-width:1px 0;
-    list-style:none;
-    margin:0;
-    padding:0;
-    text-align:center;
+#header {
+  text-align: right;
+  padding-right: 30px;
 }
 
+a {
+  text-decoration: none;
+  color: #404040;
 
+}
+
+a:hover {
+  text-decoration: underline;
+}
 
 address {
 font-size : 16px; 
@@ -18,17 +22,22 @@ text-shadow: 1px 1px 0px #202020;
 position: absolute; bottom:0;
 
 }
-img {
+#img.logo {
     position: absolute;
     top: 0; bottom:0; left: 0; right:0;
     margin: auto;
 }
 
-form {
+.form {
       width:495px;
-      margin:290px auto;
+      margin:90px auto;
 }
-.search {
+
+#searching {
+  position:center;
+  display: inline;
+}
+#search {
       padding:80px 15px;
       background:rgba(50, 50, 50, 0.2);
       border:0px solid #dbdbdb;
@@ -36,10 +45,11 @@ form {
       width: 700px;
 }
 
-.searchy {
+#searchy {
   width: 500px;
   position: center;
   height: 20px;
+  margin:20px;
 }
 .buttons {
   margin: 15px;
